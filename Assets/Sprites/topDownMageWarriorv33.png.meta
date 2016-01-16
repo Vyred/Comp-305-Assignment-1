@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 3ac910e968c117746926594f8604fc40
+timeCreated: 1445923111
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: topDownMageWarriorv33_0
+    21300002: topDownMageWarriorv33_1
+    21300004: topDownMageWarriorv33_2
+    21300006: topDownMageWarriorv33_3
+    21300008: topDownMageWarriorv33_4
+    21300010: topDownMageWarriorv33_5
+    21300012: topDownMageWarriorv33_6
+    21300014: topDownMageWarriorv33_7
+    21300016: topDownMageWarriorv33_8
+    21300018: topDownMageWarriorv33_9
+    21300020: topDownMageWarriorv33_10
+    21300022: topDownMageWarriorv33_11
+    21300024: topDownMageWarriorv33_12
+    21300026: topDownMageWarriorv33_13
+    21300028: topDownMageWarriorv33_14
+    21300030: topDownMageWarriorv33_15
+    21300032: topDownMageWarriorv33_16
+    21300034: topDownMageWarriorv33_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: topDownMageWarriorv33_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 517
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 517
+        width: 72
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .389999986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 448
+        width: 74
+        height: 118
+      alignment: 9
+      pivot: {x: .507026076, y: .729116678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 436
+        width: 72
+        height: 147
+      alignment: 9
+      pivot: {x: .5, y: .680000007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 509
+        width: 198
+        height: 62
+      alignment: 9
+      pivot: {x: .785000026, y: .326628655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 510
+        width: 72
+        height: 205
+      alignment: 9
+      pivot: {x: .5, y: .0891378298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_6
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 511
+        width: 194
+        height: 62
+      alignment: 9
+      pivot: {x: .189999998, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_7
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 423
+        width: 72
+        height: 147
+      alignment: 9
+      pivot: {x: .5, y: .680000007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_8
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 436
+        width: 74
+        height: 118
+      alignment: 9
+      pivot: {x: .5, y: .709999979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 189
+        width: 72
+        height: 108
+      alignment: 9
+      pivot: {x: .5, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 228
+        width: 72
+        height: 71
+      alignment: 9
+      pivot: {x: .5, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 230
+        width: 72
+        height: 71
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 239
+        width: 72
+        height: 65
+      alignment: 9
+      pivot: {x: .5, y: .289999992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_13
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 238
+        width: 72
+        height: 72
+      alignment: 9
+      pivot: {x: .5, y: .289999992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_14
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 236
+        width: 72
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .109999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_15
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 234
+        width: 72
+        height: 204
+      alignment: 9
+      pivot: {x: .5, y: .100000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 72
+        height: 116
+      alignment: 9
+      pivot: {x: .5, y: .550000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: topDownMageWarriorv33_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 40
+        width: 72
+        height: 118
+      alignment: 9
+      pivot: {x: .5, y: .550000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
